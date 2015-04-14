@@ -2,6 +2,7 @@
 layout: post
 title:  "Promises - Gotchas and Anti Patterns"
 date:   2015-04-10 11:06:38
+comments: true
 ---
 
 ### tl;dr
