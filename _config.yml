@@ -7,3 +7,4 @@ url: "http://chinmaynaik.in" # the base hostname & protocol for your site
 twitter_username: chinmay185
 github_username:  chinmay185
 markdown: kramdown
+permalink: pretty
