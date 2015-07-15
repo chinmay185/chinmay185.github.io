@@ -22,7 +22,7 @@ Following are the tools I use almost everyday. Some are Mac specific some are no
 	- Tabs like Google Chrome
 	- Copy Path (Use Cmd + Shift + G to show the location bar and paste the file path)
 	- Don't forget to enable Cut and Paste feature
-	
+
 * Window management tool (I like [SizeUp](http://www.irradiatedsoftware.com/sizeup/))
 
 * [iTerm](https://www.iterm2.com/) (must have for any developer)
