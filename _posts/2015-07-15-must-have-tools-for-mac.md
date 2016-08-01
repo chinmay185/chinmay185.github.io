@@ -50,5 +50,7 @@ shell for OS X
 
 * Chrome Canary and Firefox Nightly if you're into web development.
 
+* [Numi](https://numi.io/) to replace the default Mac calculator app
+
 * Misc like Limechat, Gitter, Slack and Skype, VLC, 
 
